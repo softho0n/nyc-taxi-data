@@ -1,5 +1,6 @@
 # NYC Taxi Data
-Preprocessed NYC Taxi Data (70GB)
+Preprocessed NYC Taxi Data (70GB)  
+You can downlaod raw data in <a href="https://github.com/toddwschneider/nyc-taxi-data">here</a>
 
 ## How to Download?
 Refer this link: https://mega.nz/folder/U7BxXIBJ#VD4PBriBYEPcIlScvDVjlA
