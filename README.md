@@ -2,7 +2,7 @@
 Preprocessed NYC Taxi Data (70GB)
 
 ## How to Download?
-Refer this link
+Refer this link: https://mega.nz/folder/U7BxXIBJ#VD4PBriBYEPcIlScvDVjlA
 
 ## Benchmark Query
 ### Query 1
